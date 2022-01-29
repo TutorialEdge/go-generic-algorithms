@@ -30,3 +30,36 @@ $ go1.18beta1 run quicksort.go
 [0.5 1.4 1.5 2 3.3 7.1 22.3 64.2]
 ```
 
+## Insertion Sort Algorithm
+
+You can attempt to run the insertion sort algorithm example using the following commands:
+
+```bash
+$ cd insertionsort
+$ go1.18beta1 run insertionsort.go 
+[1 3 4 5]
+[1.2 3.2 4.3 5.2 10.5]
+```
+
+## Mergesort Algorithm
+
+You can attempt to run the mergesort algorithm example using the following commands:
+
+```bash
+$ cd mergesort
+$ go1.18beta1 run mergesort.go
+[1 3 4 5]
+[1.2 3.2 4.3 5.2 10.5]
+```
+
+
+## Selection Sort Algorithm
+
+You can attempt to run the quicksort algorithm example using the following commands:
+
+```bash
+$ cd selectionsort
+$ go1.18beta1 run selectionsort.go
+[1 3 4 5]
+[1.2 3.2 4.3 5.2 10.5]
+```
